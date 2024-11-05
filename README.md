@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?color=AC93F7&lines=Welcome+to+Jaewon's+GitHub+Space💻;Hello,+I'm+Jaewon👋;Full-Stack+Developer🌟;Problem+Solver🧩;Tech+Enthusiast🚀)](https://git.io/typing-svg)
 
-#### 👋🏻 With over 2 years of experience in full-stack web development, I'm passionate about creating optimized and durable software solutions. Always eager to learn new technologies and take on exciting challenges.
+#### 👋🏻 With over 3 years of experience in full-stack web development, I'm passionate about creating optimized and durable software solutions. Always eager to learn new technologies and take on exciting challenges.
 
 ### 🛠 Skills
 
@@ -18,10 +18,10 @@
 
 ### 📈 Professional Highlights
 
-- Resolved over 300 cases comprising bug fixes and feature enhancements.
-- Delivered 20+ end-to-end new features.
-- Developed an AngularJS directory page integrated with a REST API, supporting CRUD operations, manual and CSV data entries, and advanced table functionalities.
-- Implemented responsive new UI designs for an existing static website, involving over 450 files.
+- Owned 20+ full-stack features and new pages for mortgage loan software; resolved 300+ cases.
+- Led the complete redesign and conversion of a static website (30+ web pages, 450 files) into a fully responsive layout, improving user experience and maintainability, with highly positive customer feedback.
+- Designed and implemented a custom CSV parser for bulk entry, reducing the entry time by 50%, a novel feature within the company’s code base to improve user experience.
+- Developed an internal dashboard using ReactJS for real-time contract and staff management, improving the visibility of contract KPIs
 
 
 ### 🌐 Connect with Me
